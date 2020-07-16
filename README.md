@@ -2,7 +2,7 @@
 Uni of Michigan course - Coursera
 
 
-Learning outcomes:
+## Learning outcomes
 
 1. Conduct an inferential statistical analysis
 2. Discern whether a data visualization is good or bad
@@ -10,7 +10,7 @@ Learning outcomes:
 4. Analyze the connectivity of a social network
 
 
-Relevant skill-sets:
+## Relevant skill-sets
 
 1. Text Mining
 2. Python
@@ -23,5 +23,8 @@ Relevant skill-sets:
 9. Machine Learning Algorithms
 10. Machine Learning 
 11. Natural Language Toolkit (NLTK)
+
+
+## Summary
 
 In this course module, I created a Python project, which implements a data visualization of Taipei's yearly lowest and highest temperature difference in 2019.
